@@ -1,0 +1,8 @@
+sort1 uses: bubble sort
+How do you know?: has the seccong bigger time and has a bigger diference in random and reversed
+
+sort2 uses: merge sort
+How do you know?: is the faster and dont have minimal diference in time at random and reverse
+
+sort3 uses: selection sort
+How do you know?: has the biggest time and have no diference entry random and reverse
