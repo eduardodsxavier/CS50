@@ -1,0 +1,30 @@
+body
+{
+    background-color: #1a1919;
+}
+nav
+{
+    background-color: #400808;
+}
+main
+{
+    background-color: #2C2B2B;
+}
+.container-fluid
+{
+    padding-top: 30vh;
+}
+button
+{
+    background-color: #A41212;
+    outline: none;
+    border: 0px;
+    color: white;
+    border-radius: 20px;
+    margin: 20px;
+}
+p
+{
+    margin-top: 20px;
+    color: white;
+}
